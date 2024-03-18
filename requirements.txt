@@ -1,0 +1,1 @@
+safeway-coupons==0.2.12
